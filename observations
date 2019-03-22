@@ -1,0 +1,8 @@
+#Pyber Observations:
+#1) From the bubble plot, we can see that urban drivers get more rides per day, but earn lower fares.
+#   More trips but shorter distances
+#2) From the pie charts, it seems Urban drivers are competing for rides, while Rural and Suburban drivers
+#   have more rides available than drivers
+#3) It looks like to maximize profits, drivers should head for Suburban areas as they account for the 
+#   highest percentage of total fares while having the least amount of drivers. Less overall competition
+#   and higher fares.
